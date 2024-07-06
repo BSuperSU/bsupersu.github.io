@@ -93,7 +93,7 @@ h1.title {
   content: "当前分数"; }
 
 .best-container:after {
-  content: "历史最高"; }
+  content: "历史最高分"; }
 
 p {
   margin-top: 0;
