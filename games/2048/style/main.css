@@ -90,7 +90,7 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "分数"; }
+  content: "当前分数"; }
 
 .best-container:after {
   content: "历史最高"; }
